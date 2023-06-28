@@ -1,0 +1,5 @@
+nombre=input("Ingresa tu nombre:")
+saludo=(f"Hola {nombre}, bienvenido!")
+len=len(saludo)
+print(saludo)
+print(f"El tamaño del saludo con tu nombre es de: {len} caracteres")
