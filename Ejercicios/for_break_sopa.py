@@ -1,4 +1,4 @@
-key="osiTO"
+key="osi"
 low_key=key.lower()
 soup=["osito","OSito","wSIku","tnhqw","osito"]
 iterador = iter(soup) #Debo definir con la funcion iter a soup para usar next
