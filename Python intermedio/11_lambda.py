@@ -14,5 +14,5 @@ print(result)
 #funcion lambda para texto
 full_name = lambda name, last_name: f'Full name is {name.title()} {last_name.title()}'
 
-text = full_name('nicolas', 'perez casas')
+text = full_name('eli', 'piñeros')
 print(text)

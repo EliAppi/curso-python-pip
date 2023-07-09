@@ -10,7 +10,7 @@ print(set_numbers)
 
 print("*"*10) #Separador manual de operaciones
 
-set_types = {1, 'hola', False, 12.12} #Ordena automaticamente
+set_types = {1, 'hola', False, 12.12} #Ordena aleatoriamente
 print(set_types)
 
 print("*"*10) #Separador manual de operaciones

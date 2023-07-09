@@ -23,3 +23,7 @@ print(tasks)
 print(numbers[:3])
 print(True in types)
 print('hola' in types)
+
+string="123456"
+lista=list(string)
+print(lista)
